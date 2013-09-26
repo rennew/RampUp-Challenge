@@ -1,0 +1,36 @@
+body{
+	background-image: url(images/tree_bark.png);
+}
+
+h1 {
+	text-align: center;
+	color: #9A40F1;
+	font-family: Comic;
+	font-size: 48px;
+}
+img {
+	margin-top: 25px;
+	width: 550px;
+	height: 550px;
+}
+div {
+	text-align: center;
+	border-radius: 5px;
+	border: 20px solid #9BE50B;
+	height: 600px;
+	width: 600px;
+	margin: auto;
+}
+p{
+	font-family: sans-serif;
+	font-size: 24px;
+	color: #3F5E66;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: #9A40F1;
+}
+a:hover{
+	color: #6D0E8D;
+	}
